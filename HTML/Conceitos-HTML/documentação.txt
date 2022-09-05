@@ -1,0 +1,4 @@
+head é cabeça é pare da configuração do documento no html
+body é corpo é conteúdo visual na interface do html
+meta é os meta dados charset = utf 8 é umas das configurações do html
+lang é linguagem do documento

@@ -1,0 +1,18 @@
+* {margin: 0;}
+
+main {
+    color: purple;
+    padding: 8px;
+
+    background-color: rgb(55, 100, 50);
+    background-image: url(https://img.freepik.com/fotos-gratis/imagem-aproximada-em-tons-de-cinza-de-uma-aguia-careca-americana-em-um-fundo-escuro_181624-31795.jpg?w=2000);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    background-origin: content-box;
+    background-clip: content-box;
+    background-attachment: fixed;
+
+    background: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 0, 0, 0.2)), url(https://img.freepik.com/fotos-gratis/imagem-aproximada-em-tons-de-cinza-de-uma-aguia-careca-americana-em-um-fundo-escuro_181624-31795.jpg?w=2000) no-repeat right top / 50px border-box content-box fixed;
+
+}

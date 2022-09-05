@@ -1,0 +1,15 @@
+*/ Anatomia */
+
+css
+
+h1 {
+    color: blue;
+    font-size: 60px
+    background gray
+}
+
+/* Selector serve fator para customizar todas as tags do html tenha h1 exemplo em cima é da estilo colorido dessa forma vai está ligando css com html.
+* Declaration é todo as propriedades e valores dos estilos do css q está ligado h1 exemplo de propriedades color: blue;
+* Properties ás propridades são color: , font-size: , background.
+* Property Value os valores das propridades blue; , 60px , gray.
+*/

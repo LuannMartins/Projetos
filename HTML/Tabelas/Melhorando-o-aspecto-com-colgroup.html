@@ -1,0 +1,54 @@
+<!--
+    2 Lojas
+        Quantos produtos foram produzidas, quantos
+        vendidas e agrupado por nome dos produtos
+        rowspan="2" serve para ocupar determinadas linhas.
+        colspan="2" serve para ocupar determinadas colunas.
+        <colgroup> é tag para agrupamento das colunas
+        <col> significa culunas ou seja cada coluna da tabela
+        span="2" serve para q cor fique determinada coluna ou espaço na tabela
+-->
+
+<table>
+    <caption>Produzidos x Vendidos por Loja</caption>
+
+    <colgroup>
+        <col>
+        <col span="2" style="background-color: red;">
+        <col span="2" style="background-color: blue;">
+    </colgroup>
+
+    <thead>
+        <tr>
+            <th rowspan="2"></th>
+            <th colspan="2">Afonso Pena</th>
+            <th colspan="2">Antônia Pereira</th>
+        </tr>
+
+        <tr>
+            <th>Produzidos</th>
+            <th>Vendidos</th>
+            <th>Produzidos</th>
+            <th>Vendidos</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        <tr>
+            <th>Vassouras</th>
+            <th>50</th>
+            <th>30</th>
+            <th>20</th>
+            <th>20</th>
+        </tr>
+
+        <tr>
+            <th>Baldes</th>
+            <th>10</th>
+            <th>10</th>
+            <th>30</th>
+            <th>25</th>
+        </tr>
+    </tbody>
+
+</table>

@@ -1,0 +1,9 @@
+div é tipo de tag para grupa elementos
+class usar para aplicar estilos css, e usar classe além de classifica todo o conteúdo, usar para ter acesso no javaScript.
+contenteditable serve para Editar conteúdo.
+dara- serve para colocar qualquer coisa depois do traço e separação é sempre por traços ou tudo junto.
+hidden esconde uma tag.
+id podemos usar um por pagina como indentificação não recomendado ter um id igual pode gerar interferencia no javascript
+style podemos adc estilos de cores e entre outros.
+tabindex é usado para adc uma ordem para tag é se clicar tab ele segue ordem é muito usado em celulares quando se utilizar mouses
+title definir um titulo.
